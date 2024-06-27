@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esyolal&label=Profile%20views&color=0e75b6&style=flat" alt="esyolal" /> </p>
 
-- 🌱 I’m currently learning **Node.js,React**
+- 🌱 I’m currently learning **ASP.NET Core, MVC**
 - 📫 How to reach me **esyolal@gmail.com**
-- 📖 I'm currently at bootcamp **TechCareer**
+- 📖 I'm currently at bootcamp **Patika.dev Papara .NET Bootcamp**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/esyolal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="esyolal" height="30" width="40" /></a>
