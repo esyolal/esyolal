@@ -1,4 +1,4 @@
-<img src="./profile/banner-san-andreas.svg" alt="Emre Yolal · Computer Engineer · .NET, NLP and Computer Vision" width="880">
+<img src="./profile/github-banner-neon.jpg" alt="Illustrated panels showing a city at sunset, a developer workstation, a chest X-ray and satellite imagery of building damage" width="880">
 
 ### 👋 Hi, I'm Emre
 
