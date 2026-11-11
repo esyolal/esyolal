@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="134" height="34" viewBox="0 0 134 34" role="img" aria-label="HackerRank">
+  <rect x=".5" y=".5" width="133" height="33" rx="9" fill="#241632" stroke="#91e9c4" stroke-opacity=".7"/>
+  <rect x="7" y="6" width="22" height="22" rx="6" fill="#91e9c4" fill-opacity=".13"/>
+  <g transform="translate(8 7)" color="#91e9c4" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M10 2.4l6.6 3.8v7.6L10 17.6l-6.6-3.8V6.2L10 2.4Z"/><path d="M7.5 7v6m5-6v6m-5-3h5"/>
+  </g>
+  <text x="36" y="17" dy=".35em" font-family="system-ui, Segoe UI, sans-serif" font-size="12" font-weight="650" fill="#fff5ff">HackerRank</text>
+  
+</svg>
