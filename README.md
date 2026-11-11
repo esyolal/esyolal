@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile/banner-dark.svg">
-  <img alt="Emre Yolal, Computer Engineer · .NET, NLP and Computer Vision" src="./profile/banner-light.svg" width="880">
-</picture>
+<img src="./profile/banner-san-andreas.svg" alt="Emre Yolal · Computer Engineer · .NET, NLP and Computer Vision" width="880">
 
 ### 👋 Hi, I'm Emre
 
