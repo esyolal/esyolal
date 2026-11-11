@@ -1,32 +1,37 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/banner-dark.svg">
+  <img alt="Emre Yolal, Computer Engineer · .NET, NLP and Computer Vision" src="./profile/banner-light.svg" width="880">
+</picture>
 
-# Emre Yolal
+### 👋 Hi, I'm Emre
 
-**Computer Engineer · .NET & AI Developer**
+I build web apps with **.NET** and explore what machine learning can learn from text and images. I'm pursuing an **MSc in Information Systems Engineering**.
 
-I build web applications with .NET and explore how machine learning can make sense of text and images.
+[💼 LinkedIn](https://www.linkedin.com/in/esyolal/) · [✉️ Email](mailto:esyolal@gmail.com) · [𝕏 X](https://twitter.com/esyolal) · [⌨️ HackerRank](https://www.hackerrank.com/esyolal)
 
-[LinkedIn](https://www.linkedin.com/in/esyolal/) · [Email](mailto:esyolal@gmail.com) · [X](https://twitter.com/esyolal) · [HackerRank](https://www.hackerrank.com/esyolal)
+## 🚀 Featured projects
 
-</div>
+**🩻 [CheXpert Report Decision Support](https://github.com/esyolal/CheXpert-Report-Decision-Support-System)**  
+Fine-tunes ClinicalBERT to identify multiple findings in chest radiology reports.  
+`ClinicalBERT` · `NLP` · `Multi-label classification`
 
-## Selected projects
+**🛰️ [Earthquake Damage Detection](https://github.com/esyolal/earthquake-damage-detection-cnn-vs-transformers)**  
+Compares CNNs and Vision Transformers for detecting building damage in post-earthquake imagery, with a follow-up experiment using SimCLR pretraining.  
+`Computer vision` · `CNNs` · `Vision Transformers` · `SimCLR`
 
-**[CheXpert Report Decision Support System](https://github.com/esyolal/CheXpert-Report-Decision-Support-System)**  
-Uses ClinicalBERT to classify multiple findings in chest radiology reports.
+**🛠️ [BlogApp](https://github.com/esyolal/BlogApp-ASP.NET-Core-Mvc)**  
+A blog application built with ASP.NET Core MVC as my full-stack bootcamp capstone.  
+`C#` · `ASP.NET Core MVC`
 
-**[Earthquake Damage Detection](https://github.com/esyolal/earthquake-damage-detection-cnn-vs-transformers)**  
-Compares CNNs and Vision Transformers for identifying damaged buildings in post-earthquake imagery.
+[Explore all repositories →](https://github.com/esyolal?tab=repositories)
 
-**[BlogApp](https://github.com/esyolal/BlogApp-ASP.NET-Core-Mvc)**  
-A blog application built with ASP.NET Core MVC as a full-stack bootcamp capstone.
+## 🔬 Research interests
 
-## Research
+- **Text** · Stress, sentiment, and hate speech detection with transformer models such as BERT, T5, and BART.
+- **Images** · Microscopic image analysis and CNN-based image classification.
 
-I'm pursuing an MSc in Information Systems Engineering. My academic projects cover stress, sentiment, and hate speech detection, as well as microscopic image analysis. I've worked with BERT, T5, BART, and CNN-based image classifiers.
+## 🧰 Toolbox
 
-## Tech stack
-
-- **Backend & data** · C#, .NET, ASP.NET Core MVC, Node.js, Express, SQL Server, PostgreSQL
-- **Frontend** · JavaScript, React, Redux, HTML, CSS, Bootstrap
-- **Machine learning** · Python, PyTorch, TensorFlow, Jupyter, Anaconda
+**.NET & data** · `C#` `.NET` `ASP.NET Core MVC` `SQL Server` `PostgreSQL`  
+**Web** · `React` `Redux` `JavaScript` `Node.js` `Express` `HTML` `CSS` `Bootstrap`  
+**Machine learning** · `Python` `PyTorch` `TensorFlow` `Jupyter` `Anaconda`
